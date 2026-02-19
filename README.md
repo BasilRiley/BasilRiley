@@ -6,7 +6,7 @@ A business analyst focusing on data visualisation delivering business intelligen
 - Using Power BI to show the key information and metrics
 
 # Business Analyst and Efficieny Modeller
-
+Supporting fast-sclaing startups collect and manage data 
 
 
 
