@@ -1,12 +1,25 @@
-# Business Intelligence Data Analyst
-A business analyst focusing on data visualisation delivering business intelligence and insights.
+# Hello there
 
-- Query data using SQL  
-- Using Power Query to transform and clean data  
-- Using Power BI to show the key information and metrics
+I'm Basil, an established Business Analyst and transformation specialist with a passion for data <br>
+I adore making data accessible for non-technical business owners and leaders <br>
+Loading, cleaning and transforming data with SQL and Power Query <br>
+Modelling and visualising with Power BI <br>
+Capturing meaningful insights that validate ideas or reasons to stop and think <br>
+Supporting fast-scaling startups collect and manage data <br>
 
-# Business Analyst and Efficieny Modeller
-Supporting fast-sclaing startups collect and manage data 
+
+Core data skills:
+
+- Power Query
+- Power BI
+- SQL
+- Excel
+- Access
+- BigQuery
+- Looker
+- Colab
+
+I adore a challenge, especially with data that is not always commercially focused.
 
 
 
